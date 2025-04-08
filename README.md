@@ -1,7 +1,7 @@
 ### **Проект: Создание ИИ-ассистента для компании "Народные окна"**
 
 Скриншот проекта: 
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Whitedima/ai_assistent/blob/main/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%B0.jpg?raw=true)
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Whitedima/ai_assistent/blob/main/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%B0.jpg?raw=true))
  
 
 #### **Цель проекта:**  
